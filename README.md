@@ -1,2 +1,3 @@
-# insight
-Text analysis
+# Insight
+
+Text analysis project
